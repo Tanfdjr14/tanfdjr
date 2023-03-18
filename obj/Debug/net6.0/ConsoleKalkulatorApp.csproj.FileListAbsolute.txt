@@ -1,0 +1,15 @@
+D:\Program Files\ConsoleKalkulatorApp\bin\Debug\net6.0\ConsoleKalkulatorApp.exe
+D:\Program Files\ConsoleKalkulatorApp\bin\Debug\net6.0\ConsoleKalkulatorApp.deps.json
+D:\Program Files\ConsoleKalkulatorApp\bin\Debug\net6.0\ConsoleKalkulatorApp.runtimeconfig.json
+D:\Program Files\ConsoleKalkulatorApp\bin\Debug\net6.0\ConsoleKalkulatorApp.dll
+D:\Program Files\ConsoleKalkulatorApp\bin\Debug\net6.0\ConsoleKalkulatorApp.pdb
+D:\Program Files\ConsoleKalkulatorApp\obj\Debug\net6.0\ConsoleKalkulatorApp.csproj.AssemblyReference.cache
+D:\Program Files\ConsoleKalkulatorApp\obj\Debug\net6.0\ConsoleKalkulatorApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\ConsoleKalkulatorApp\obj\Debug\net6.0\ConsoleKalkulatorApp.AssemblyInfoInputs.cache
+D:\Program Files\ConsoleKalkulatorApp\obj\Debug\net6.0\ConsoleKalkulatorApp.AssemblyInfo.cs
+D:\Program Files\ConsoleKalkulatorApp\obj\Debug\net6.0\ConsoleKalkulatorApp.csproj.CoreCompileInputs.cache
+D:\Program Files\ConsoleKalkulatorApp\obj\Debug\net6.0\ConsoleKalkulatorApp.dll
+D:\Program Files\ConsoleKalkulatorApp\obj\Debug\net6.0\refint\ConsoleKalkulatorApp.dll
+D:\Program Files\ConsoleKalkulatorApp\obj\Debug\net6.0\ConsoleKalkulatorApp.pdb
+D:\Program Files\ConsoleKalkulatorApp\obj\Debug\net6.0\ConsoleKalkulatorApp.genruntimeconfig.cache
+D:\Program Files\ConsoleKalkulatorApp\obj\Debug\net6.0\ref\ConsoleKalkulatorApp.dll
